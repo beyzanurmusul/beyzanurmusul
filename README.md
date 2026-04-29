@@ -18,5 +18,5 @@ I am a 3rd-year Computer Engineering student at Istanbul Arel University. I also
 **📫 How to reach me:**
 
 *   **LinkedIn:** [www.linkedin.com/in/beyzanur-musul]
-*   **GitHub:** [https://github.com/kullanici-adin/](https://github.com/kullanici-adin/)
+*   **GitHub:** [https://github.com/beyzanurmusul/]
 *   **Email:** beyzanurmusul4@gmail.com
